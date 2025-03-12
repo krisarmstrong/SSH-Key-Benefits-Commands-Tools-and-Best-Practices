@@ -1,7 +1,5 @@
 # SSH Key Benefits, Commands, Tools, and Best Practices
 
-![SSH Key Benefits](https://media.licdn.com/dms/image/v2/D5622AQEjks-ULY7rsg/feedshare-shrink_800/B56ZWFffsJHsAg-/0/1741701390503?e=1744848000&v=beta&t=8u5gjnvL6IukJbMWUC7L9c9IxmoiZm8VKTCDpLlgXUU)
-
 ## SSH Key Benefits 🎉
 
 ### 1️⃣ Security 🔒
