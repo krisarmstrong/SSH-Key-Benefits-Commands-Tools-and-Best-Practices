@@ -2,6 +2,8 @@
 
 ## SSH Key Benefits 🎉
 
+<img src="How-SSH-Works.gif" alt="How SSH Works" width="600">
+
 ### 1️⃣ Security 🔒
 SSH provides robust security features, including:
 - **Encryption**: Ensures all data exchanged is secure.
@@ -110,6 +112,6 @@ SSH is a powerful tool for secure remote access and system management. Following
 ---
 
 ## Author ✍️
-**Created by:** [Your Name or GitHub Handle]
+**Created by:** Kris Armstrong
 
 For more details, refer to the [OpenSSH Documentation](https://www.openssh.com/manual.html).
